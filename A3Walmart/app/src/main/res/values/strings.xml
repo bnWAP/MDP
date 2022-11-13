@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Walmart</string>
+    <string name="title">Sign in to your account</string>
+    <string name="email">Email address (required) </string>
+    <string name="reg_email">Email address* </string>
+    <string name="reg_password">Password* </string>
+    <string name="password">Password (required) </string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="sign_in">Sign In</string>
+    <string name="no_account">Don\'t have an account</string>
+    <string name="create">Create a new account</string>
+    <string name="create_account">Create account</string>
+    <string name="shop_cat_title">Shop by Category</string>
+    <string name="electronics">Electronics</string>
+    <string name="clothing">Clothing</string>
+    <string name="fashion">Beauty</string>
+    <string name="food">Food</string>
+    <string name="reg_first_name">First Name*</string>
+    <string name="reg_last_name">Last Name*</string>
+    <string name="forgot_email">Email Address</string>
+    <string name="reset_password">Reset Password</string>
+</resources>
