@@ -1,0 +1,93 @@
+<resources>
+    <string name="app_name">AndroidQuiz</string>
+    <string name="text_start">START</string>
+    <string name="text_home">Main</string>
+    <string name="text_solution">Solution</string>
+    <string name="text_play_again">Redo Quiz</string>
+    <string name="text_congratulations">Congratulations!</string>
+    <string name="text_next">Next</string>
+    <string name="hint_question">Question</string>
+    <string name="hint_option_a">Option A</string>
+    <string name="text_option_b">Option B</string>
+    <string name="text_option_c">Option C</string>
+    <string name="text_option_d">Option D</string>
+    <string name="text_loading">Loading…</string>
+    <string name="text_empty_database">There isn\'t data yet!</string>
+    <string name="hint_score">Score: 5/10</string>
+    <string name="miu">Maharishi International University</string>
+    <string name="question_1">
+        1. What is the UI building block of an Android app?
+        Correct answer - A. Activity
+    </string>
+    
+    <string name="question_2">
+        2. What is an Intent in Android?
+        Correct answer - A. A message object that is used to communicate between components
+    </string>
+    
+    <string name="question_3">
+        3. What is the difference between a Service and a Thread in Android?
+        Correct answer - A. A Service runs in the background, while a Thread runs on the UI thread
+    </string>
+    
+    <string name="question_4">
+        4. What is the difference between an Activity and a Fragment in Android?
+        Correct answer - A. An Activity represents a single screen, while a Fragment represents a portion of a screen
+    </string>
+    
+    <string name="question_5">
+        5. How can you store data in Android?
+        Correct answer - D. All of the above
+    </string>
+
+    <string name="question_6">
+        6. What is the purpose of the AndroidManifest file?
+        Correct answer - B. To define the apps components and permissions
+    </string>
+    
+    <string name="question_7">
+        7. What is the Android SDK?
+        Correct answer - A. A set of tools and resources for building Android apps
+    </string>
+    
+    <string name="question_8">
+        8. How can you handle user input in Android?
+        Correct answer - D. All of the above
+    </string>
+    
+    <string name="question_9">
+        9. How can you communicate between different components in Android?
+        Correct answer - D. All of the above
+    </string>
+    
+    <string name="question_10">
+        10. What is an AsyncTask in Android?
+        Correct answer - A. A mechanism for running tasks in the background
+    </string>
+    
+    <string name="question_11">
+        11. What is the Android Support Library?
+        Correct answer - A. A set of libraries for adding new features to older versions of Android
+    </string>
+    
+    <string name="question_12">
+        12. What is the Android Gradle plugin?
+        Correct answer - A. A set of tools for building and deploying Android apps
+    </string>
+    
+    <string name="question_13">
+        13. What is the Android NDK?
+        Correct answer - A. A set of tools for developing native code for Android
+    </string>
+    
+    <string name="question_14">
+        14. What is the Android Emulator?
+        Correct answer - A. A virtual device for running and testing Android apps
+    </string>
+    
+    <string name="question_15">
+        15. What is the Android XML layout file?
+        Correct answer - A. A file containing the layout and UI elements of an activity
+    </string>
+
+</resources>
